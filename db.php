@@ -5,7 +5,7 @@ Website: http://www.allphptricks.com/
 */
 
 
-$con = mysqli_connect("localhost","root","13Pass24","laboratornaya");
+$con = mysqli_connect("localhost","root","13Pass24","auth");
 // Check connection
 if (mysqli_connect_errno())
   {
